@@ -38,15 +38,15 @@ u{
     margin:2px;
 
 }
-.Main-box{
-    text-align:left;
+.Main_box{
+    text-align:center;
     font-size:small;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-style: normal;
     font: 1em 'Arial Narrow';
     width:100%;
-    margin-left:5px; 
-    border:3px coral;
+    
+   
     
     
 }
