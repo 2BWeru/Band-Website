@@ -1,0 +1,80 @@
+body {
+    background-color:gray;
+}
+ 
+.side_box {
+    float:left;
+    margin: right 10px; right: 4px;;
+    border-left:6px; 
+    border-top:2em;
+    border-color: teal;
+    border-style: double;
+    width:30%;
+    padding-left: 3px;
+   
+}
+h1{
+    font-style:italic;
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+    font-size: large;
+}
+u{
+    color: black;
+    font-size: medium;
+}
+/* .leftbar{ */
+    /* float:right; */
+/* } */
+.About_box{
+    float:left;
+    text-align: left;
+    width: 90%;
+    padding:3px;
+
+}
+.image_box{
+    width:85%;
+    margin:2px;
+
+}
+.Main-box{
+    text-align:left;
+    font-size:small;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-style: normal;
+    font: 1em 'Arial Narrow';
+    width:100%;
+    margin-left:5px; 
+    border:3px coral;
+    
+    
+}
+#List{
+    font-style: italic;
+    color: burlywood;
+}
+#songs{
+    font-style: italic;
+    color: brown;
+}
+.image_column{
+    float:left;
+    width:50%;
+    padding: 2px;
+}
+.image2_column{
+    float:right;
+    width: 50% padding 2px;
+}
+/* }
+.image3_column{
+    float:left;
+    width:50% padding 2px;
+} */ */
+.image4_column{
+    float:right;
+    width:50% padding 2px;
+}
+
+    
